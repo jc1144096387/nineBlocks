@@ -1,0 +1,1 @@
+width和height都用vw单位，可以保证width和height都以设备宽度为基准

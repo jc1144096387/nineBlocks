@@ -1,0 +1,13 @@
+.container{
+    width: 100vw;
+    height: 100vw;
+    margin: 0px auto;
+}
+.container div{
+    width: 30vw;
+    height: 30vw;
+    margin: 1vw;
+    background-color: orange;
+    float: left;
+    border-radius: 10px;
+}
